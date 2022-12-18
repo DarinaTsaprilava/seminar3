@@ -1,0 +1,15 @@
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.csproj.AssemblyReference.cache
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.AssemblyInfoInputs.cache
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.AssemblyInfo.cs
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.csproj.CoreCompileInputs.cache
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\bin\Debug\net6.0\primer1massiv.exe
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\bin\Debug\net6.0\primer1massiv.deps.json
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\bin\Debug\net6.0\primer1massiv.runtimeconfig.json
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\bin\Debug\net6.0\primer1massiv.dll
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\bin\Debug\net6.0\primer1massiv.pdb
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.dll
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\refint\primer1massiv.dll
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.pdb
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\primer1massiv.genruntimeconfig.cache
+C:\Users\Дурик Дорик\Documents\seminar3\primer1massiv\obj\Debug\net6.0\ref\primer1massiv.dll
